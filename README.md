@@ -33,4 +33,4 @@ This project involves creating an interactive dashboard for a coffee shop using 
 This Excel-based dashboard provides a comprehensive view of the coffee shop’s performance, aiding in strategic decision-making and operational efficiency.
 
 ## Acknowledgements
-- Special thanks to [Data Source] for providing the data used in this project.
+- Special thanks to Data Source for providing the data used in this project.
